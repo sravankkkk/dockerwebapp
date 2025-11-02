@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: cont-1
-          image: shaikmustafa/socialmedia:app
+          image: sravan41/socialmedia:app
           ports:
             - containerPort: 8080
       imagePullSecrets:
